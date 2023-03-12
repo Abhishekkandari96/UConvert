@@ -34,7 +34,7 @@ After Calculation
 ## 🚀 About Me
 I'm a full stack developer...
 
-👩‍💻 I'm currently working on Upgrading Skill.
+👩‍💻 I'm currently working on Upgrading my Skillset.
 
 📫 How to reach me... abhishekkandari96@gmail.com
 
